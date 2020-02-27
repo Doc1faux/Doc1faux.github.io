@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>EIRL Sébastien Vitard</title>
+    <link href="https://Doc1faux.github.io/Doc1faux.github.io/feed.xml" rel="self" />
+    <link href="https://Doc1faux.github.io/Doc1faux.github.io" />
+    <updated>2020-02-27T17:59:57+01:00</updated>
+    <author>
+        <name>Sébastien Vitard</name>
+    </author>
+    <id>https://Doc1faux.github.io/Doc1faux.github.io</id>
+
+    <entry>
+        <title>Références</title>
+        <author>
+            <name>Sébastien Vitard</name>
+        </author>
+        <link href="https://Doc1faux.github.io/Doc1faux.github.io/references.html"/>
+        <id>https://Doc1faux.github.io/Doc1faux.github.io/references.html</id>
+
+        <updated>2020-02-27T17:50:48+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Développeur Android et iOS</title>
+        <author>
+            <name>Sébastien Vitard</name>
+        </author>
+        <link href="https://Doc1faux.github.io/Doc1faux.github.io/home.html"/>
+        <id>https://Doc1faux.github.io/Doc1faux.github.io/home.html</id>
+
+        <updated>2020-02-27T17:59:14+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
