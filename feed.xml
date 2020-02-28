@@ -3,7 +3,7 @@
     <title>EIRL Sébastien Vitard</title>
     <link href="https://sebastienvitard.com/feed.xml" rel="self" />
     <link href="https://sebastienvitard.com" />
-    <updated>2020-02-28T09:35:59+01:00</updated>
+    <updated>2020-02-28T14:03:34+01:00</updated>
     <author>
         <name>Sébastien Vitard</name>
     </author>
@@ -17,9 +17,55 @@
         <link href="https://sebastienvitard.com/references.html"/>
         <id>https://sebastienvitard.com/references.html</id>
 
-        <updated>2020-02-27T20:12:28+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-02-28T14:03:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sebastienvitard.com/media/posts/2/pikrepo.com4.jpg" alt="" />
+                    Nokia Smart Officeest une application de géolocalisation indoor pour les salariés du groupe afin de trouver un bureau libre ou leurs collègues. est une application de cartes postales personnalisées avec les propres photos de l'utilisateur.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sebastienvitard.com/media/posts/2/pikrepo.com4.jpg" alt="" />
+                <table style="width: 739px;">
+<tbody>
+<tr>
+<td style="width: 656.75px;"><img class="post__image post__image--center" src="https://sebastienvitard.com/media/posts/2/nokia_logo_blue.png" alt="" width="201" height="84"></td>
+<td style="width: 681.25px; vertical-align: top;">
+<h2 id="mcetoc_1e25kqcgu0"><strong>Nokia Smart Office</strong></h2>
+<p><span class="background-details">est une application de géolocalisation indoor pour les salariés du groupe afin de trouver un bureau libre ou leurs collègues.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 1338px;" colspan="2">
+<table style="width: 698px;">
+<tbody>
+<tr>
+<td style="width: 117.844px;"><img class="post__image post__image--center" src="https://sebastienvitard.com/media/posts/2/nokia-reco-olivier_le_fol.jpg" width="80" height="80"></td>
+<td style="width: 557.156px;"><span class="lt-line-clamp__line">J'ai eu l'occasion de travailler avec Sébastien sur un projet de Smart</span> <span class="lt-line-clamp__line">Building. Rien à redire. Compétences, professionnalisme, respect</span> <span class="lt-line-clamp__line lt-line-clamp__line--last">des délais. Vous pouvez y aller en toute confiance</span></td>
+</tr>
+<tr>
+<td style="width: 117.844px;"> </td>
+<td class="align-right" style="width: 557.156px;"><em>Olivier Le Fol, Smart Building Project Lead</em></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 656.75px; vertical-align: top;">
+<h2 id="mcetoc_1e25lktcp2"><span class="lt-line-clamp__line">Popcarte</span></h2>
+<p>est une application de cartes postales personnalisées avec les propres photos de l'utilisateur.</p>
+</td>
+<td style="width: 681.25px;"><img class="post__image post__image--center" src="https://sebastienvitard.com/media/posts/2/popcarte.jpg" alt="" width="200" height="336"></td>
+</tr>
+<tr>
+<td class="align-right" style="width: 1338px;" colspan="2"><a href="https://play.google.com/store/apps/details?id=com.popcarte.android"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" width="201" height="78"></a></td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Développeur Android et iOS depuis 2010</title>
@@ -29,8 +75,37 @@
         <link href="https://sebastienvitard.com/home.html"/>
         <id>https://sebastienvitard.com/home.html</id>
 
-        <updated>2020-02-28T08:21:14+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-02-28T11:10:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sebastienvitard.com/media/posts/1/pikrepo.com5.jpg" alt="" />
+                    Porteur de projetESNEntreprisePour être conseillé et accompagné depuis votre idée jusqu'à votre applicationPour pallier au manque d'effectif dans votre structure et ne pas perdre un prospectPour développer l'application qui répond à vos besoins et celui de vos clients 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sebastienvitard.com/media/posts/1/pikrepo.com5.jpg" alt="" />
+                <table class=" align-center">
+<tbody>
+<tr>
+<td><img class="post__image post__image--center" src="https://sebastienvitard.com/media/posts/1/Project.png" alt="" width="140" height="140"></td>
+<td><img class="post__image post__image--center" src="https://sebastienvitard.com/media/posts/1/ESN.png" alt="" width="140" height="140"></td>
+<td><img class="post__image post__image--center" src="https://sebastienvitard.com/media/posts/1/Enterprise.png" alt="" width="140" height="140"></td>
+</tr>
+<tr>
+<td><strong>Porteur de projet</strong></td>
+<td><strong>ESN</strong></td>
+<td><strong>Entreprise</strong></td>
+</tr>
+<tr>
+<td style="vertical-align: top;">Pour être conseillé et accompagné depuis votre idée jusqu'à votre application</td>
+<td style="vertical-align: top;">Pour pallier au manque d'effectif dans votre structure et ne pas perdre un prospect</td>
+<td style="vertical-align: top;">Pour développer l'application qui répond à vos besoins et celui de vos clients</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>

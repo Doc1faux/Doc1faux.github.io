@@ -13,6 +13,8 @@
             "id": "https://sebastienvitard.com/references.html",
             "url": "https://sebastienvitard.com/references.html",
             "title": "Références",
+            "summary": "Nokia Smart Officeest une application de géolocalisation indoor pour les salariés du groupe afin de trouver un bureau libre ou leurs collègues. est une application de cartes postales personnalisées avec les propres photos de l'utilisateur.",
+            "content_html": "<table style=\"width: 739px;\">\n<tbody>\n<tr>\n<td style=\"width: 656.75px;\"><img class=\"post__image post__image--center\" src=\"https://sebastienvitard.com/media/posts/2/nokia_logo_blue.png\" alt=\"\" width=\"201\" height=\"84\"></td>\n<td style=\"width: 681.25px; vertical-align: top;\">\n<h2 id=\"mcetoc_1e25kqcgu0\"><strong>Nokia Smart Office</strong></h2>\n<p><span class=\"background-details\">est une application de géolocalisation indoor pour les salariés du groupe afin de trouver un bureau libre ou leurs collègues.</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 1338px;\" colspan=\"2\">\n<table style=\"width: 698px;\">\n<tbody>\n<tr>\n<td style=\"width: 117.844px;\"><img class=\"post__image post__image--center\" src=\"https://sebastienvitard.com/media/posts/2/nokia-reco-olivier_le_fol.jpg\" width=\"80\" height=\"80\"></td>\n<td style=\"width: 557.156px;\"><span class=\"lt-line-clamp__line\">J'ai eu l'occasion de travailler avec Sébastien sur un projet de Smart</span> <span class=\"lt-line-clamp__line\">Building. Rien à redire. Compétences, professionnalisme, respect</span> <span class=\"lt-line-clamp__line lt-line-clamp__line--last\">des délais. Vous pouvez y aller en toute confiance</span></td>\n</tr>\n<tr>\n<td style=\"width: 117.844px;\"> </td>\n<td class=\"align-right\" style=\"width: 557.156px;\"><em>Olivier Le Fol, Smart Building Project Lead</em></td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n<tr>\n<td style=\"width: 656.75px; vertical-align: top;\">\n<h2 id=\"mcetoc_1e25lktcp2\"><span class=\"lt-line-clamp__line\">Popcarte</span></h2>\n<p>est une application de cartes postales personnalisées avec les propres photos de l'utilisateur.</p>\n</td>\n<td style=\"width: 681.25px;\"><img class=\"post__image post__image--center\" src=\"https://sebastienvitard.com/media/posts/2/popcarte.jpg\" alt=\"\" width=\"200\" height=\"336\"></td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 1338px;\" colspan=\"2\"><a href=\"https://play.google.com/store/apps/details?id=com.popcarte.android\"><img src=\"https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png\" alt=\"Disponible sur Google Play\" width=\"201\" height=\"78\"></a></td>\n</tr>\n</tbody>\n</table>",
             "image": "https://sebastienvitard.com/media/posts/2/pikrepo.com4.jpg",
             "author": {
                 "name": "Sébastien Vitard"
@@ -20,12 +22,14 @@
             "tags": [
             ],
             "date_published": "2020-02-27T17:50:48+01:00",
-            "date_modified": "2020-02-27T20:12:28+01:00"
+            "date_modified": "2020-02-28T14:03:20+01:00"
         },
         {
             "id": "https://sebastienvitard.com/home.html",
             "url": "https://sebastienvitard.com/home.html",
             "title": "Développeur Android et iOS depuis 2010",
+            "summary": "Porteur de projetESNEntreprisePour être conseillé et accompagné depuis votre idée jusqu'à votre applicationPour pallier au manque d'effectif dans votre structure et ne pas perdre un prospectPour développer l'application qui répond à vos besoins et celui de vos clients ",
+            "content_html": "<table class=\" align-center\">\n<tbody>\n<tr>\n<td><img class=\"post__image post__image--center\" src=\"https://sebastienvitard.com/media/posts/1/Project.png\" alt=\"\" width=\"140\" height=\"140\"></td>\n<td><img class=\"post__image post__image--center\" src=\"https://sebastienvitard.com/media/posts/1/ESN.png\" alt=\"\" width=\"140\" height=\"140\"></td>\n<td><img class=\"post__image post__image--center\" src=\"https://sebastienvitard.com/media/posts/1/Enterprise.png\" alt=\"\" width=\"140\" height=\"140\"></td>\n</tr>\n<tr>\n<td><strong>Porteur de projet</strong></td>\n<td><strong>ESN</strong></td>\n<td><strong>Entreprise</strong></td>\n</tr>\n<tr>\n<td style=\"vertical-align: top;\">Pour être conseillé et accompagné depuis votre idée jusqu'à votre application</td>\n<td style=\"vertical-align: top;\">Pour pallier au manque d'effectif dans votre structure et ne pas perdre un prospect</td>\n<td style=\"vertical-align: top;\">Pour développer l'application qui répond à vos besoins et celui de vos clients</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "image": "https://sebastienvitard.com/media/posts/1/pikrepo.com5.jpg",
             "author": {
                 "name": "Sébastien Vitard"
@@ -33,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2020-02-27T17:50:40+01:00",
-            "date_modified": "2020-02-28T08:21:14+01:00"
+            "date_modified": "2020-02-28T11:10:50+01:00"
         }
     ]
 }
