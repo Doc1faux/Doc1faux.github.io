@@ -3,7 +3,7 @@
     <title>EIRL Sébastien Vitard</title>
     <link href="https://sebastienvitard.com/feed.xml" rel="self" />
     <link href="https://sebastienvitard.com" />
-    <updated>2020-02-28T14:03:34+01:00</updated>
+    <updated>2020-02-28T14:24:52+01:00</updated>
     <author>
         <name>Sébastien Vitard</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://sebastienvitard.com/references.html"/>
         <id>https://sebastienvitard.com/references.html</id>
 
-        <updated>2020-02-28T14:03:20+01:00</updated>
+        <updated>2020-02-28T14:24:40+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sebastienvitard.com/media/posts/2/pikrepo.com4.jpg" alt="" />
-                    Nokia Smart Officeest une application de géolocalisation indoor pour les salariés du groupe afin de trouver un bureau libre ou leurs collègues. est une application de cartes postales personnalisées avec les propres photos de l'utilisateur.
+                    Nokia Smart Officeest une application de géolocalisation indoor pour les salariés du groupe afin de trouver un bureau libre ou leurs collègues. est une application de cartes postales personnalisées avec les propres photos de l'utilisateur. 
                 ]]>
             </summary>
         <content type="html">
@@ -60,7 +60,8 @@
 <td style="width: 681.25px;"><img class="post__image post__image--center" src="https://sebastienvitard.com/media/posts/2/popcarte.jpg" alt="" width="200" height="336"></td>
 </tr>
 <tr>
-<td class="align-right" style="width: 1338px;" colspan="2"><a href="https://play.google.com/store/apps/details?id=com.popcarte.android"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" width="201" height="78"></a></td>
+<td class="align-right" style="width: 1338px;"> </td>
+<td class="align-center" style="width: 1338px;"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" width="201" height="78"></td>
 </tr>
 </tbody>
 </table>
